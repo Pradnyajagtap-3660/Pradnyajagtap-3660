@@ -3,8 +3,7 @@ currently a student pursuing a degree in Information Technology at
 Mumbai University.</h3>
 <br>
 
-# 💫 About Me:
-write about yourself
+# 💫 About me:
 I like to learn new things
 
 # 📊 GitHub Stats:
