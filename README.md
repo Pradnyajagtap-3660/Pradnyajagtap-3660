@@ -3,10 +3,10 @@ currently a student pursuing a degree in Information Technology at
 Mumbai University.</h3>
 <br>
 
-# 💫 About me:
+<strong>💫 About me</strong>:
 I like to learn new things
 
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 
 ![](https://github-readme-
 stats.vercel.app/api?Pradnyajagtap-3660=Pradnyajagtap-3660&theme=dark&hide_border
